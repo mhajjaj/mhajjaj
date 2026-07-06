@@ -6,7 +6,7 @@ I build production-grade AI systems that bridge research and real-world applicat
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, C++, Java, SQL
+- **Languages:** Python, Java, SQL
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, OpenCV, YOLO
 - **LLMs:** Transformers, LangChain, LlamaIndex, RAG
 - **Backend:** FastAPI, REST APIs
