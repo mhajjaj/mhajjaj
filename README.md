@@ -1,24 +1,34 @@
 # Hi, I'm Mohammed Hajjaj 👋
 
-### Senior AI Engineer | Machine Learning | LLMs | Computer Vision
+### AI Research & Development Engineer | Generative AI | Agentic AI | AI Infrastructure
 
-I build production-grade AI systems that bridge research and real-world applications. My interests include **Large Language Models (LLMs)**, **Computer Vision**, **Vision-Language Models (VLMs)**, **Retrieval-Augmented Generation (RAG)**, and **MLOps**, with a focus on scalable, reliable, and efficient AI solutions.
+I design and build production-ready AI systems that bridge research and real-world applications. My work spans **Large Language Models (LLMs)**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **Vision-Language Models (VLMs)**, **Computer Vision**, and scalable AI infrastructure. I enjoy turning cutting-edge AI research into reliable, efficient, and deployable solutions.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - **Languages:** Python, Java, SQL
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, OpenCV, YOLO
-- **LLMs:** Transformers, LangChain, LlamaIndex, RAG
+- **Generative AI:** Transformers, LangChain, LlamaIndex, RAG, Prompt Engineering
 - **Backend:** FastAPI, REST APIs
-- **Infrastructure:** Docker, Linux, CUDA, Git
+- **Infrastructure:** Docker, Kubernetes, Linux, CUDA, Git
+- **Model Serving:** vLLM, Ollama
 
-### 🚀 Interests
+## 🚀 Areas of Interest
 
-- LLM & Agentic AI
-- Computer Vision
-- Multimodal AI
+- Generative AI & Agentic AI
+- AI Research & Development
+- Physical AI & Edge AI
+- Computer Vision & Multimodal AI
 - AI Infrastructure & MLOps
-- Distributed Training & Inference
+- High-Performance Computing (HPC)
+- Distributed Training & Model Serving
+
+## 🔬 Currently Working On
+
+- Production LLM inference with vLLM & Nvidia H200
+- Agentic AI workflows and AI orchestration
+- AI infrastructure for enterprise deployments
+- Multimodal AI and Vision-Language Models
 
 ---
 
